@@ -2,7 +2,7 @@ package main
 
 import (
 "fmt"
-"stringutil"
+"hello-repo/stringutil"
 )
 func main() {
 	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
